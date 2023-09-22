@@ -1,0 +1,1 @@
+Just a simple Javascript countdown page. Specify the date and time in the countdown.js script.
